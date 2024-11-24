@@ -1,0 +1,208 @@
+2024-11-24 19:39:13,724 : INFO : test_home_page_entry : homepage is loaded
+2024-11-24 19:39:13,821 : INFO : test_home_page_entry : first name is entered
+2024-11-24 19:39:13,921 : INFO : test_home_page_entry : email is entered
+2024-11-24 19:39:13,990 : INFO : test_home_page_entry : password is entered
+2024-11-24 19:39:14,055 : INFO : test_home_page_entry : check box is clicked
+2024-11-24 19:39:14,125 : INFO : test_home_page_entry : gender is clicked
+2024-11-24 19:39:14,197 : INFO : test_home_page_entry : employment status is clicked
+2024-11-24 19:39:14,243 : INFO : test_home_page_entry : dob is entered
+2024-11-24 19:39:14,308 : INFO : test_home_page_entry : submit button is clicked
+2024-11-24 19:39:14,325 : INFO : test_home_page_entry : successly completed
+2024-11-24 19:39:28,995 : INFO : test_home_page_entry : homepage is loaded
+2024-11-24 19:39:29,099 : INFO : test_home_page_entry : first name is entered
+2024-11-24 19:39:29,197 : INFO : test_home_page_entry : email is entered
+2024-11-24 19:39:29,264 : INFO : test_home_page_entry : password is entered
+2024-11-24 19:39:29,331 : INFO : test_home_page_entry : check box is clicked
+2024-11-24 19:39:29,393 : INFO : test_home_page_entry : gender is clicked
+2024-11-24 19:39:29,452 : INFO : test_home_page_entry : employment status is clicked
+2024-11-24 19:39:29,507 : INFO : test_home_page_entry : dob is entered
+2024-11-24 19:39:29,578 : INFO : test_home_page_entry : submit button is clicked
+2024-11-24 19:39:29,595 : INFO : test_home_page_entry : successly completed
+2024-11-24 19:39:42,012 : INFO : test_home_page_entry : homepage is loaded
+2024-11-24 19:39:42,102 : INFO : test_home_page_entry : first name is entered
+2024-11-24 19:39:42,206 : INFO : test_home_page_entry : email is entered
+2024-11-24 19:39:42,277 : INFO : test_home_page_entry : password is entered
+2024-11-24 19:39:42,360 : INFO : test_home_page_entry : check box is clicked
+2024-11-24 19:39:42,421 : INFO : test_home_page_entry : gender is clicked
+2024-11-24 19:39:42,476 : INFO : test_home_page_entry : employment status is clicked
+2024-11-24 19:39:42,521 : INFO : test_home_page_entry : dob is entered
+2024-11-24 19:39:42,584 : INFO : test_home_page_entry : submit button is clicked
+2024-11-24 19:39:42,602 : INFO : test_home_page_entry : successly completed
+2024-11-24 23:21:34,587 : INFO : test_home_page_entry : homepage is loaded
+2024-11-24 23:44:04,774 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-24 23:59:17,723 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-24 23:59:17,829 : INFO : test_home_page_entry : First name is entered
+2024-11-24 23:59:17,967 : INFO : test_home_page_entry : Email is entered
+2024-11-24 23:59:18,041 : INFO : test_home_page_entry : Password is entered
+2024-11-24 23:59:18,112 : INFO : test_home_page_entry : Check box is clicked
+2024-11-24 23:59:18,178 : INFO : test_home_page_entry : Gender is clicked
+2024-11-24 23:59:18,235 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-24 23:59:18,283 : INFO : test_home_page_entry : DOB is entered
+2024-11-24 23:59:18,344 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-24 23:59:18,362 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:08:00,002 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:08:00,107 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:08:00,210 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:08:00,277 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:08:00,343 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:08:00,403 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:08:00,461 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:08:00,507 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:08:00,579 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:08:00,595 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:09:48,223 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:09:48,325 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:09:48,447 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:09:48,529 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:09:48,600 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:09:48,664 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:09:48,725 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:09:48,773 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:09:48,839 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:09:48,858 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:09:49,825 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:09:49,844 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:09:49,860 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:10:01,396 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:10:01,529 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:10:01,658 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:10:01,730 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:10:01,799 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:10:01,867 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:10:01,941 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:10:01,988 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:10:02,050 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:10:02,066 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:10:03,012 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:10:03,030 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:10:03,048 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:10:11,249 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 00:10:18,311 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:10:18,417 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:10:18,529 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:10:18,600 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:10:18,668 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:10:18,732 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:10:18,787 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:10:18,832 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:10:18,896 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:10:18,912 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:10:19,250 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:10:19,272 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:10:19,296 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:14:26,443 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:14:26,550 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:14:26,671 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:14:26,745 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:14:26,815 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:14:26,880 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:14:26,939 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:14:26,988 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:14:27,054 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:14:27,071 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:14:27,871 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:14:27,895 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:14:27,958 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:14:28,024 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 00:15:14,241 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:15:14,343 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:15:14,454 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:15:14,528 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:15:14,598 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:15:14,662 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:15:14,722 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:15:14,768 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:15:14,833 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:15:14,850 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:15:15,539 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:15:15,556 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:15:15,620 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:15:15,684 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 00:17:46,867 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:17:46,891 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:17:46,956 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:17:47,024 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 00:36:23,415 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:36:23,554 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:36:23,651 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:36:23,720 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:36:23,787 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:36:23,848 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:36:23,905 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:36:23,950 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:36:24,014 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:36:24,031 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:36:24,383 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:36:24,403 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:36:24,461 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:36:24,522 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 00:37:43,388 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:37:43,485 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:37:43,589 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:37:43,660 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:37:43,743 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:37:43,805 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:37:43,862 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:37:43,908 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:37:43,973 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:37:43,990 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:37:44,679 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:37:44,698 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:37:44,761 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:37:44,827 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 00:38:08,704 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:38:08,832 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:38:08,940 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:38:09,010 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:38:09,081 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:38:09,145 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:38:09,203 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:38:09,250 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:38:09,317 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:38:09,334 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:38:10,179 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:38:10,200 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:38:10,260 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:38:10,323 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 00:39:27,521 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:39:27,635 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:39:27,745 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:39:27,823 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:39:27,896 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:39:27,965 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:39:28,024 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:39:28,073 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:39:28,139 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:39:28,156 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:39:28,479 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:39:28,502 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:39:28,565 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:39:28,630 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 00:40:28,328 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:40:28,447 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:40:28,552 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:40:28,624 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:40:28,692 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:40:28,754 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:40:28,810 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:40:28,855 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:40:28,920 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:40:28,937 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:40:29,269 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:40:29,289 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:40:29,373 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:40:29,433 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 00:41:36,297 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 00:41:36,420 : INFO : test_home_page_entry : First name is entered
+2024-11-25 00:41:36,516 : INFO : test_home_page_entry : Email is entered
+2024-11-25 00:41:36,593 : INFO : test_home_page_entry : Password is entered
+2024-11-25 00:41:36,661 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 00:41:36,722 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 00:41:36,778 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 00:41:36,828 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 00:41:36,889 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 00:41:36,906 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 00:41:37,631 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 00:41:37,650 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 00:41:37,710 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 00:41:37,775 : INFO : test_shop_page : Confirmation page actions completed
