@@ -1,0 +1,28 @@
+2024-11-25 01:34:40,149 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 01:34:40,386 : INFO : test_home_page_entry : First name is entered
+2024-11-25 01:34:40,561 : INFO : test_home_page_entry : Email is entered
+2024-11-25 01:34:40,671 : INFO : test_home_page_entry : Password is entered
+2024-11-25 01:34:40,811 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 01:34:40,933 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 01:34:41,053 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 01:34:41,140 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 01:34:41,286 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 01:34:41,313 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 01:34:42,230 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 01:34:42,287 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 01:34:42,401 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 01:34:42,511 : INFO : test_shop_page : Confirmation page actions completed
+2024-11-25 01:39:44,051 : INFO : test_home_page_entry : Homepage is loaded
+2024-11-25 01:39:44,183 : INFO : test_home_page_entry : First name is entered
+2024-11-25 01:39:44,282 : INFO : test_home_page_entry : Email is entered
+2024-11-25 01:39:44,351 : INFO : test_home_page_entry : Password is entered
+2024-11-25 01:39:44,418 : INFO : test_home_page_entry : Check box is clicked
+2024-11-25 01:39:44,481 : INFO : test_home_page_entry : Gender is clicked
+2024-11-25 01:39:44,537 : INFO : test_home_page_entry : Employment status is clicked
+2024-11-25 01:39:44,584 : INFO : test_home_page_entry : DOB is entered
+2024-11-25 01:39:44,646 : INFO : test_home_page_entry : Submit button is clicked
+2024-11-25 01:39:44,663 : INFO : test_home_page_entry : Successfully completed
+2024-11-25 01:39:44,981 : INFO : test_shop_page : Navigating to shop page
+2024-11-25 01:39:44,999 : INFO : test_shop_page : Retrieved card titles
+2024-11-25 01:39:45,069 : INFO : test_shop_page : Retrieved card footers
+2024-11-25 01:39:45,133 : INFO : test_shop_page : Confirmation page actions completed
